@@ -1,0 +1,9 @@
+interface Conta {
+
+	public abstract void atualiza(double tx);
+
+	public abstract void deposita(double vlr);
+
+	public abstract double calculaTributos();
+
+}

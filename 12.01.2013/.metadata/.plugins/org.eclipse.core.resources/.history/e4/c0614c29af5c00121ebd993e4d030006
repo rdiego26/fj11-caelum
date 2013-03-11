@@ -1,0 +1,18 @@
+import java.io.FileInputStream;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+
+public class TesteInput {
+
+	public static void main(String[] args) {
+		
+		InputStream is = new FileInputStream("/home/oo3134/Diego Ramos/12.01.2013/testeInput/arquivo.txt");
+		
+		InputStreamReader isr = new InputStreamReader();
+		
+		
+		
+		
+	}
+	
+}

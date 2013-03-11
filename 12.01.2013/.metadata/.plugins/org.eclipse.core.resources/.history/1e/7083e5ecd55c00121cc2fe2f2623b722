@@ -1,0 +1,16 @@
+import java.util.HashSet;
+
+public class TesteSets {
+
+	public static void main(String[] args) {
+
+		HashSet<String> lista = new HashSet<String>();
+		lista.add("Funcionario 1.");
+		lista.add("Funcionario 3.");
+		lista.add("Funcionario 2.");
+		
+		lista.contains("Away");
+	}
+	
+
+}

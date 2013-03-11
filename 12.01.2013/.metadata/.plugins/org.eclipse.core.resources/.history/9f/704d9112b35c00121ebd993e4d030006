@@ -1,0 +1,10 @@
+import java.io.FileInputStream;
+import java.io.InputStreamReader;
+
+
+public class EntradaDeUmArquivo {
+	public static void main(String[] args) {
+		
+		InputStreamReader is = new FileInputStream("arquivo.txt");
+	}
+}

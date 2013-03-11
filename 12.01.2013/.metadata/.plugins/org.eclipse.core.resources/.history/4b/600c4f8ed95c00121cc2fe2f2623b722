@@ -1,0 +1,10 @@
+public class TestaPerformance {
+
+	public static void main(String[] args) {
+		System.out.println("Iniciando...");
+		
+		long inicio = System.currentTimeMillis();
+		Collection<Integer> teste = nwe ArrayList<>();
+	}
+	
+}

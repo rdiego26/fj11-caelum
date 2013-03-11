@@ -1,0 +1,11 @@
+class ContaPoupanca extends implements Conta {
+
+	private double saldo;
+	
+	public void atualiza(double tx) {
+		this.saldo += this.saldo * ( 3 * tx);
+	}
+
+	
+	
+}

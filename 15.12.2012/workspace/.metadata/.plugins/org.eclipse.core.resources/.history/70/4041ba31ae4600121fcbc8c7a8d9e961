@@ -1,0 +1,12 @@
+public class Conta {
+	private double saldo;
+
+	public void deposita(double vlr) {
+		this.saldo += vlr;
+	}
+	
+	public void saca(double vlr) {
+		this.saldo -= vlr;
+	}
+
+}

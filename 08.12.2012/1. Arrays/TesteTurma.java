@@ -1,0 +1,31 @@
+class TesteTurma {
+
+	public static void main(String[] args) {
+		Turma a301 = new Turma();
+
+		Aluno bia = new Aluno();
+		bia.nome = "Bia";
+		bia.nota = 10.0F;
+
+		Aluno leo = new Aluno();
+		leo.nome = "Leo";
+		leo.nota = 2.0F;
+
+
+		a301.alunos = new Aluno[50];
+		a301.alunos[0] = bia;
+		a301.alunos[1] = leo;
+
+		double media = a301.calculaMedia();
+
+		System.out.println("Media: " + media);
+
+
+		
+
+
+	}
+
+
+
+}

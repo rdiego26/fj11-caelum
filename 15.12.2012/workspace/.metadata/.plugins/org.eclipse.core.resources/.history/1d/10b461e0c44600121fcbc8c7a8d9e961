@@ -1,0 +1,21 @@
+public class RelatorioCompleto extends Relatorio {
+
+	@Override
+	public void cabecalho() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void corpo() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void rodape() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

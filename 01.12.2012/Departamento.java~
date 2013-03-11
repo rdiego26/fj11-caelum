@@ -1,0 +1,7 @@
+class Departamento {
+
+	String nome;
+
+
+
+}

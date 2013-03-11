@@ -1,0 +1,23 @@
+class ContaPoupanca implements Conta {
+
+	private double saldo;
+	
+	public void atualiza(double tx) {
+		this.saldo += this.saldo * ( 3 * tx);
+	}
+
+	@Override
+	public void deposita(double vlr) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public double calculaTributos() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	
+	
+}

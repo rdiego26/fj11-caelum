@@ -1,0 +1,7 @@
+
+public class Circulo implements AreaCalculavel {
+
+	static double PI = 3.14;
+	
+	private int raio;
+}

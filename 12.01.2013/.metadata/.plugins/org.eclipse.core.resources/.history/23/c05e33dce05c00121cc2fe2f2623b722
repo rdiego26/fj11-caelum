@@ -1,0 +1,12 @@
+public class Processo implements Runnable {
+
+		private int id;
+		
+		@Override
+		public void run() {
+		// TODO Auto-generated method stub
+		
+		}
+	
+	
+}

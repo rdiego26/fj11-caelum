@@ -1,0 +1,11 @@
+public class Conta {
+	private double saldo;
+
+	public void deposita(double vlr) {
+		// FAZER
+		this.saldo += vlr;
+	}
+	
+	
+
+}

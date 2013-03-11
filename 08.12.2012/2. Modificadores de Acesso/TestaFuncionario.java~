@@ -1,0 +1,11 @@
+class TestaFuncionario {
+	public static void main(String[] args) {
+
+		Funcionario f = new Funcionario("Ana Paula");
+	
+		System.out.println("Nome: " + f.getNome() );
+	}
+
+
+
+}

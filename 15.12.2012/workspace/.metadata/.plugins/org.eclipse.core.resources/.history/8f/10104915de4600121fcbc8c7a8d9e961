@@ -1,0 +1,17 @@
+class Gerente extends Funcionario {
+
+	public Gerente(String n) {
+		super(n);
+	}
+
+	private int senha;
+	
+	public boolean autentica(int senha) {
+		//autentica
+	}
+
+	public double getBonificacao() {
+		return this.salario + 200;
+	}
+}
+

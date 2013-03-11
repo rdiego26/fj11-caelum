@@ -1,0 +1,7 @@
+public abstract class Relatorio {
+	
+	public abstract void cabecalho();
+	public abstract void corpo();
+	public abstract void rodape();
+	
+}

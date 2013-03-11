@@ -1,0 +1,21 @@
+import java.util.HashSet;
+
+public class TesteSets {
+
+	public static void main(String[] args) {
+
+		HashSet<String> lista = new HashSet<String>();
+		lista.add("Funcionario 1.");
+		lista.add("Funcionario 3.");
+		lista.add("Funcionario 2.");
+		lista.add("F");
+		
+		System.out.println( lista.contains("F") );
+		
+		
+		HashMap<Integer, Conta> listaContas = new HashMap<Integer, Conta>();
+	}
+	
+
+	
+}

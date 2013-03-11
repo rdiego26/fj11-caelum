@@ -1,0 +1,22 @@
+public class Conta {
+	
+	//Atributos
+	protected double saldo;
+
+	public void deposita(double vlr) {
+		this.saldo += vlr;
+	}
+	
+	public void saca(double vlr) {
+		this.saldo -= vlr;
+	}
+	
+	public void atualiza(double taxa) {
+		this.saldo += this.saldo * taxa;		
+	}
+
+	public double getSaldo() {
+		return saldo;
+	}
+	
+}

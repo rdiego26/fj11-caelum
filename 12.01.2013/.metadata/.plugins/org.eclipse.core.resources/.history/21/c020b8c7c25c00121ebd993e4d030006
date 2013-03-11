@@ -1,0 +1,12 @@
+import java.util.ArrayList;
+
+public class TestaOrdenacao {
+
+	public static void main(String[] args) {
+		
+		List<ContaPoupanca> contas = new ArrayList<>();
+		
+	}
+	
+	
+}

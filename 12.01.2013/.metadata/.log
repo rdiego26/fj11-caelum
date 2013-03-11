@@ -1,0 +1,47 @@
+!SESSION 2013-01-12 14:16:05.496 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.7.0_09
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.ui 4 4 2013-01-12 14:16:09.964
+!MESSAGE Could not create view: 'org.eclipse.ui.internal.introview'.
+
+!ENTRY org.eclipse.ui 4 0 2013-01-12 14:16:12.740
+!MESSAGE Problems occurred restoring workbench.
+!SUBENTRY 1 unknown 0 0 2013-01-12 14:16:12.740
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2013-01-12 14:16:12.741
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2013-01-12 14:16:12.741
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2013-01-12 14:16:12.741
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.ui 4 0 2013-01-12 14:16:12.741
+!MESSAGE Unable to restore perspective: Workspace - Java.
+!SUBENTRY 2 org.eclipse.ui 0 0 2013-01-12 14:16:12.741
+!MESSAGE Problems occurred restoring perspective.
+!SUBENTRY 3 org.eclipse.ui 0 0 2013-01-12 14:16:12.741
+!MESSAGE 
+!SUBENTRY 2 unknown 0 0 2013-01-12 14:16:12.741
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2013-01-12 14:16:12.741
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2013-01-12 14:16:12.741
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2013-01-12 14:16:12.741
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2013-01-12 14:16:12.741
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2013-01-12 14:16:12.741
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2013-01-12 14:16:12.742
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2013-01-12 14:16:12.742
+!MESSAGE OK
+!SUBENTRY 2 org.eclipse.ui 4 0 2013-01-12 14:16:12.742
+!MESSAGE Could not find view: org.eclipse.ui.internal.introview
+!SUBENTRY 1 unknown 0 0 2013-01-12 14:16:12.742
+!MESSAGE OK

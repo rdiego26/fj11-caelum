@@ -1,0 +1,17 @@
+/**
+ * @category Template Method
+ * @author Diego Ramos
+**/
+
+public abstract class Relatorio {
+	
+	public abstract void cabecalho();
+	public abstract void corpo();
+	public abstract void rodape();
+	
+	public void gera() {
+		this.cabecalho();
+		this.corpo();
+		this.rodape();
+	}
+}

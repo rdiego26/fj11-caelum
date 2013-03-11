@@ -1,0 +1,6 @@
+class Data {
+	short dia;
+	short mes;
+	int ano;
+
+}

@@ -1,0 +1,8 @@
+public class TestaProcesso {
+
+	public static void main(String[] args) {
+		Processo p1 = new Processo();
+		
+	}
+	
+}
